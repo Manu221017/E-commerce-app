@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Cargador de telefono",
+    "price": 100.00,
+    "image": "https://th.bing.com/th/id/OIP.IZjTTav6wuU_kVk7bo_xGgHaHa?cb=iwp2&rs=1&pid=ImgDetMain",
+    "description": "Cargador de telefono usb tipo-c de 120 watts"
+  },
+  {
+    "id": 2,
+    "name": "Cable HDMI",
+    "price": 89.99,
+    "image": "https://assets.aten.com/product/image/2l-7d01h.cables.hdmi-cables.45.jpg",
+    "description": "Cable HDMI de 10 metros"
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 2500.00,
+    "image": "https://th.bing.com/th/id/R.9c15b72e6d8b9864bbaab8dece2d7a0f?rik=fyvUareiidGEzw&riu=http%3a%2f%2fwww.montecaserosonline.com%2fgaleria%2fprecios-2017-compus.jpg&ehk=SUuHFPr6B9Elx4T967E%2fEAzJTwFVHabynDxOQynUyzc%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Laptop de 15.6 pulgadas con procesador Intel Core i5, 8GB de RAM y 256GB de SSD"
+  },
+  {
+    "id": 4,
+    "name": "Auriculares inalámbricos",
+    "price": 299.99,
+    "image": "https://th.bing.com/th/id/OIP.71zBHfawoC3yBOEgA_nb-AHaHf?rs=1&pid=ImgDetMain",
+    "description": "Auriculares Bluetooth con cancelación de ruido y estuche de carga"
+  },
+  {
+    "id": 5,
+    "name": "Power Bank 20,000mAh",
+    "price": 189.99,
+    "image": "https://th.bing.com/th/id/OIP.FaOpK_Zxc8kfsPFdU31uPAHaFj?rs=1&pid=ImgDetMain",
+    "description": "Batería portátil de alta capacidad con carga rápida"
+  },
+  {
+    "id": 6,
+    "name": "Smartwatch Xiaomi Band 8",
+    "price": 249.99,
+    "image": "https://th.bing.com/th/id/OIP.WwhUVnQ2Bi9yDy2PkyfVXQHaHa?rs=1&pid=ImgDetMain",
+    "description": "Pulsera inteligente con monitor de ritmo cardíaco y pantalla AMOLED"
+  },
+  {
+    "id": 7,
+    "name": "Altavoz Bluetooth portátil",
+    "price": 139.99,
+    "image": "https://i.blogs.es/2beec3/altavoz11/1366_2000.jpg",
+    "description": "Altavoz resistente al agua con sonido envolvente"
+  },
+  {
+    "id": 8,
+    "name": "Teclado mecánico retroiluminado",
+    "price": 229.99,
+    "image": "https://i.pinimg.com/736x/72/df/af/72dfafaa55a92bb3fa95ed6c53e51e74.jpg",
+    "description": "Teclado gaming RGB con switches táctiles"
+  },
+  {
+    "id": 9,
+    "name": "Cámara web Full HD",
+    "price": 99.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_763977-MLM43586268918_092020-F.jpg",
+    "description": "Cámara web con micrófono integrado, ideal para videollamadas"
+  },
+  {
+    "id": 10,
+    "name": "Mini proyector LED",
+    "price": 459.99,
+    "image": "https://m.media-amazon.com/images/I/618klqnYCGL.jpg",
+    "description": "Proyector portátil compatible con HDMI y USB, resolución HD"
+  }
+]
