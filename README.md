@@ -18,4 +18,5 @@ Esta es una aplicación de E-Commerce construida con **React**, que permite a lo
 ---
 
 ## 📁 Estructura del Proyecto
-
+## Link de app publicada:
+## https://e-commerce-app-kp1e.vercel.app/
