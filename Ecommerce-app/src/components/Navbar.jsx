@@ -6,7 +6,6 @@ const Navbar = ({ onCartClick }) => {
       <div style={styles.logo}>Tienda de electronicos</div>
       <ul style={styles.navLinks}>
         <li><a href="#inicio" style={styles.link}>Inicio</a></li>
-        <li><a href="#contacto" style={styles.link}>Contacto</a></li>
       </ul>
       <button onClick={onCartClick} style={styles.cartButton}>
         🛒 Carrito

@@ -39,7 +39,6 @@ const ProductDetail = () => {
       <img src={product.image} alt={product.name} style={{ width: "300px" }} />
       <p>Precio: Q{product.price.toFixed(2)}</p>
       <p>Descripción: {product.description || "Sin descripción."}</p>
-      <button onClick={() => dispatch({ type: "ADD", product })}>Agregar al carrito</button>
     </div>
   );
 };
